@@ -1,5 +1,5 @@
 # HelloChat.io #
-[Link to MatchMe](address)
+[Link to HelloChat](address)
 >
 
 ## Overview ##
